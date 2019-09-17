@@ -22,7 +22,7 @@ const Navigation = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link> <Link to="/Home"> home</Link></Nav.Link>
+            <Nav.Link> <Link to="/"> home</Link></Nav.Link>
             <Nav.Link > <Link to="/contact" > contact </Link></Nav.Link>
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
@@ -218,7 +218,7 @@ const App = () => {
         atActive={{ opacity: 1, }}
         className="switch-wrapper"
       >
-        <Route path="/Home" exact component={Home} />
+        <Route path="/" exact component={Home} />
         <Route path="/contact" component={Contact} />
 
       </AnimatedSwitch>
