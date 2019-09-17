@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactlab2/static/css/main.ab7171eb.chunk.css",
+    "main.js": "/reactlab2/static/js/main.168846d4.chunk.js",
+    "main.js.map": "/reactlab2/static/js/main.168846d4.chunk.js.map",
+    "runtime~main.js": "/reactlab2/static/js/runtime~main.02ebd656.js",
+    "runtime~main.js.map": "/reactlab2/static/js/runtime~main.02ebd656.js.map",
+    "static/css/2.266e55a5.chunk.css": "/reactlab2/static/css/2.266e55a5.chunk.css",
+    "static/js/2.56f9d4af.chunk.js": "/reactlab2/static/js/2.56f9d4af.chunk.js",
+    "static/js/2.56f9d4af.chunk.js.map": "/reactlab2/static/js/2.56f9d4af.chunk.js.map",
+    "index.html": "/reactlab2/index.html",
+    "precache-manifest.4511792d36395ca58b3c1bbdad3ae30d.js": "/reactlab2/precache-manifest.4511792d36395ca58b3c1bbdad3ae30d.js",
+    "service-worker.js": "/reactlab2/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/reactlab2/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.ab7171eb.chunk.css.map": "/reactlab2/static/css/main.ab7171eb.chunk.css.map",
+    "static/media/App.css": "/reactlab2/static/media/tech.b285c4f8.jpg",
+    "static/media/myface.jpg": "/reactlab2/static/media/myface.69fb3cf8.jpg"
+  }
+}
