@@ -6,7 +6,7 @@ import { MDBJumbotron,  MDBCardTitle, MDBCardImage, MDBCardBody, MDBCardText } f
 
 
 import myface from "./assets/myface.jpg"
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 import { AnimatedSwitch } from 'react-router-transition';
 
 import './App.css';
